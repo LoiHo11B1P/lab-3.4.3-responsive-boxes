@@ -25,7 +25,7 @@ body {
 }
 
 .b {
-  background-color: white;
+  background-color: rgb(20, 19, 19);
   width: 72vw;
   height: 76vh;
   margin: 1vh -0.5vh 1vh 1vh;
@@ -43,21 +43,23 @@ body {
   .container {
     display: flex;
     flex-wrap: wrap;
-    max-height: 98vh;
+    
   }
   .a {
     height: 9vh;
-    width: 98vw;
+    width: 96vw;
+    margin: 1vh 1vh -1vh 1vh;
   }
 
   .b {
-    height: 74vh;
-    width: 98vw;
-    margin: 1vh
+    height: 76vh;
+    width: 96vw;
+    margin: 0vh 1vh -1vh 1vh;
   }
 
   .c {
     height: 9vh;
-    width: 98vw;
+    width: 96vw;
+    margin: 0vh 1vh -1vh 1vh;
   }
 }

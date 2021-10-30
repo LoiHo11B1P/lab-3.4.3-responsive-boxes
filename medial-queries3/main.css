@@ -61,13 +61,11 @@ body {
     background-color: brown;
     width: 30vw;
     height: 30vw;
-    margin-top: 2vh;
-    margin-bottom: 2vh;
   }
 
   .h {
     background-color: rgb(148, 141, 141);
     width: 98vw;
-    height: 40vh;
+    height: 38vh;
   }
 }
